@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/08"
+		},
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/04"
+		},
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/07"
+		},
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/03"
+		},
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/05"
+		},
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/06"
+		},
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/01"
+		},
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/02"
+		},
+		{
+			"path": "/Users/yamamotomomoka/Downloads/problems/00"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
